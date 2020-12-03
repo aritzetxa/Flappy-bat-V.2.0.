@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AC46E674-6344-DB95-B091-945AF7108096}") = "Flappy Bat", "Assembly-CSharp.csproj", "{7B9D5267-5E82-33C5-95AB-525043B29707}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B9D5267-5E82-33C5-95AB-525043B29707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9D5267-5E82-33C5-95AB-525043B29707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9D5267-5E82-33C5-95AB-525043B29707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9D5267-5E82-33C5-95AB-525043B29707}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
